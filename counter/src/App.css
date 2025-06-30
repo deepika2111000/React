@@ -1,0 +1,27 @@
+.container{
+  text-align: center;
+  padding: 50px;
+  background-color: rgb(99, 202, 228);
+  min-height: 100vh;
+}
+
+.btn{
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: rgb(190, 82, 82);
+  color: azure;
+  border: none;
+  border-radius: 6px;
+}
+
+.reset{
+  background-color: rgb(8, 167, 207);
+
+}
+
+.container.dark{
+  background-color: black;
+  color: aliceblue;
+  
+}
